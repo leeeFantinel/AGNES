@@ -1,0 +1,1 @@
+This site  search to help people who lost everything in floods in Rio Grande do Sul, Brazil. I built 3 different screens, each one with your own funcionality. The site is all in Portuguese, but I hope you can enjoy the experience of view my job. Thanks!!
